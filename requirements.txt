@@ -1,0 +1,13 @@
+# Core
+opencv-python
+mediapipe
+numpy
+pandas
+pillow
+
+# GUI
+tk
+
+# Emotion detection (FER uses TensorFlow backend)
+fer
+tensorflow==2.15.0
